@@ -1,4 +1,4 @@
-//Parte A:
+//Punto1, Parte A:
 
 // Punto 1.1
 let texto = 'Hola mundo taller 1';
