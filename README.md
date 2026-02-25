@@ -45,16 +45,16 @@ Taller-1-JavaScript/
 
 ## 📝 Descripción de Soluciones
 
-### Punto 1 
+### Punto 1 - (Kevin Velez Betancur)
 Implementación de análisis de tipos de datos primitivos con la función `analizarTipo()`, demostración de coerción implícita/explícita con `convertirDatos()` y `compararValores()`.
 
-### Punto 2
+### Punto 2 (Keiner Jhoseth Vega Rangel)
 Sistema de gestión de notas con `clasificarNota()` usando estructuras `switch` e `if/else`. Generador de tablas de multiplicar y verificación de números primos con ciclos `while` y `do-while`.
 
-### Punto 3 
+### Punto 3 (Esteban)
 Sistema de análisis de inventario para una tienda de tecnología. Manipulación de arrays con ciclos clásicos y métodos funcionales: `filter`, `map`, `reduce`, `find`, `some`, `every` y `sort`.
 
-### Punto 4 
+### Punto 4 (Juan Jose Ortiz Franco)
 Modelado de un sistema de estudiantes universitarios usando objetos literales con métodos propios y función constructora `Curso()` con prototipo. Uso de `Object.keys()`, `Object.values()`, `Object.assign()` y spread operator.
 
 ### Bonus 
