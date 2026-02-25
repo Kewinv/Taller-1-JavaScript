@@ -11,7 +11,7 @@ let sym = Symbol("id"); //Un Symbol es un identificador unico e irrepetible.
 
 //Punto 1.2
 function analizarTipo(valor){
-    // Creamos 2 variables de apoyo ya que necesitamos hacer verificaciones y operaciones.
+    // Creamos 2 variables de apoyo, ya que necesitamos hacer verificaciones y operaciones.
     let tipoDato = typeof valor;
     let descripcion;
 

@@ -1,4 +1,6 @@
-//Punto 2, Parte a
+//Punto 2
+
+//Parte A
 
 //Punto 2.7
 function clasificarNota(nota) { //Creacion de la función para clasificar las notas
