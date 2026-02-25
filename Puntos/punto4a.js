@@ -1,6 +1,6 @@
 //Punto 4, Parte A:
 
-// Punto 4.1: Creamos un objeto con las propiedades del estudiante
+// Punto 4.23: Creamos un objeto con las propiedades del estudiante
 const estudiante = {
 
     // Propiedades del estudiante
@@ -21,7 +21,7 @@ const estudiante = {
 
 };
 
-// Punto 4.2: Creamos funciones para trabajar con los datos del estudiante
+// Punto 4.24: Creamos funciones para trabajar con los datos del estudiante
 
 // Función: calcularPromedio()
 // Retorna: Número promedio o 0 si no existen notas
@@ -108,7 +108,7 @@ function toString() {
     return texto;
 }
 
-// Punto 4.3: Demostracion de las funciones
+// Punto 4.25: Demostracion de las funciones
 
 // Llamamos a la función para obtener el nombre completo
 console.log("Nombre completo:");
